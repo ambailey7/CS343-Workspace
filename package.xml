@@ -6,7 +6,7 @@
  <name>my_package</name>
  <version>0.0.0</version>
  <description>Starter Package</description>
- <maintainer email="somerandomemail@gmail.com">Andrew Bailey</maintainer>
+ <maintainer email="somerandomemail@gmail.com">Andrew M Bailey</maintainer>
  <license>Apache License 2.0</license>
 
  <test_depend>ament_copyright</test_depend>
